@@ -1,5 +1,6 @@
 ﻿// CMakeProjectTest001.cpp : アプリケーションのエントリ ポイントを定義します。
 //
+// テスト
 
 #define _CRT_SECURE_NO_WARNINGS
 #include "CMakeProjectTest001.h"
